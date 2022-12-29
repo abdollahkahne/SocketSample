@@ -1,0 +1,17 @@
+/home/student/Desktop/Learning/GitExample/server/bin/Debug/net6.0/server
+/home/student/Desktop/Learning/GitExample/server/bin/Debug/net6.0/server.deps.json
+/home/student/Desktop/Learning/GitExample/server/bin/Debug/net6.0/server.runtimeconfig.json
+/home/student/Desktop/Learning/GitExample/server/bin/Debug/net6.0/server.dll
+/home/student/Desktop/Learning/GitExample/server/bin/Debug/net6.0/server.pdb
+/home/student/Desktop/Learning/GitExample/server/bin/Debug/net6.0/System.IO.Pipelines.dll
+/home/student/Desktop/Learning/GitExample/server/obj/Debug/net6.0/server.csproj.AssemblyReference.cache
+/home/student/Desktop/Learning/GitExample/server/obj/Debug/net6.0/server.GeneratedMSBuildEditorConfig.editorconfig
+/home/student/Desktop/Learning/GitExample/server/obj/Debug/net6.0/server.AssemblyInfoInputs.cache
+/home/student/Desktop/Learning/GitExample/server/obj/Debug/net6.0/server.AssemblyInfo.cs
+/home/student/Desktop/Learning/GitExample/server/obj/Debug/net6.0/server.csproj.CoreCompileInputs.cache
+/home/student/Desktop/Learning/GitExample/server/obj/Debug/net6.0/server.csproj.CopyComplete
+/home/student/Desktop/Learning/GitExample/server/obj/Debug/net6.0/server.dll
+/home/student/Desktop/Learning/GitExample/server/obj/Debug/net6.0/refint/server.dll
+/home/student/Desktop/Learning/GitExample/server/obj/Debug/net6.0/server.pdb
+/home/student/Desktop/Learning/GitExample/server/obj/Debug/net6.0/server.genruntimeconfig.cache
+/home/student/Desktop/Learning/GitExample/server/obj/Debug/net6.0/ref/server.dll

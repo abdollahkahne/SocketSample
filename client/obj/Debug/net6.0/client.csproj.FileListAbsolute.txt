@@ -1,0 +1,15 @@
+/home/student/Desktop/Learning/GitExample/client/obj/Debug/net6.0/client.csproj.AssemblyReference.cache
+/home/student/Desktop/Learning/GitExample/client/obj/Debug/net6.0/client.GeneratedMSBuildEditorConfig.editorconfig
+/home/student/Desktop/Learning/GitExample/client/obj/Debug/net6.0/client.AssemblyInfoInputs.cache
+/home/student/Desktop/Learning/GitExample/client/obj/Debug/net6.0/client.AssemblyInfo.cs
+/home/student/Desktop/Learning/GitExample/client/obj/Debug/net6.0/client.csproj.CoreCompileInputs.cache
+/home/student/Desktop/Learning/GitExample/client/bin/Debug/net6.0/client
+/home/student/Desktop/Learning/GitExample/client/bin/Debug/net6.0/client.deps.json
+/home/student/Desktop/Learning/GitExample/client/bin/Debug/net6.0/client.runtimeconfig.json
+/home/student/Desktop/Learning/GitExample/client/bin/Debug/net6.0/client.dll
+/home/student/Desktop/Learning/GitExample/client/bin/Debug/net6.0/client.pdb
+/home/student/Desktop/Learning/GitExample/client/obj/Debug/net6.0/client.dll
+/home/student/Desktop/Learning/GitExample/client/obj/Debug/net6.0/refint/client.dll
+/home/student/Desktop/Learning/GitExample/client/obj/Debug/net6.0/client.pdb
+/home/student/Desktop/Learning/GitExample/client/obj/Debug/net6.0/client.genruntimeconfig.cache
+/home/student/Desktop/Learning/GitExample/client/obj/Debug/net6.0/ref/client.dll
