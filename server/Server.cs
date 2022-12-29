@@ -212,8 +212,8 @@ namespace Pipeline
 
                     var nextPosition = buffer.GetPosition(buffer.Length);
                     reader.AdvanceTo(nextPosition);
-                    if (!stream.DataAvailable)
-                    // if (result.Buffer.Length == 0)
+                    // if (!stream.DataAvailable)
+                    if (result.Buffer.Length == 0)
                     {
                         completed = true;
                         Console.WriteLine("Receive Empty Buffer, Client Closed");
