@@ -1,0 +1,15 @@
+/workspaces/SocketSample/client/bin/Debug/net7.0/client
+/workspaces/SocketSample/client/bin/Debug/net7.0/client.deps.json
+/workspaces/SocketSample/client/bin/Debug/net7.0/client.runtimeconfig.json
+/workspaces/SocketSample/client/bin/Debug/net7.0/client.dll
+/workspaces/SocketSample/client/bin/Debug/net7.0/client.pdb
+/workspaces/SocketSample/client/obj/Debug/net7.0/client.csproj.AssemblyReference.cache
+/workspaces/SocketSample/client/obj/Debug/net7.0/client.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/SocketSample/client/obj/Debug/net7.0/client.AssemblyInfoInputs.cache
+/workspaces/SocketSample/client/obj/Debug/net7.0/client.AssemblyInfo.cs
+/workspaces/SocketSample/client/obj/Debug/net7.0/client.csproj.CoreCompileInputs.cache
+/workspaces/SocketSample/client/obj/Debug/net7.0/client.dll
+/workspaces/SocketSample/client/obj/Debug/net7.0/refint/client.dll
+/workspaces/SocketSample/client/obj/Debug/net7.0/client.pdb
+/workspaces/SocketSample/client/obj/Debug/net7.0/client.genruntimeconfig.cache
+/workspaces/SocketSample/client/obj/Debug/net7.0/ref/client.dll

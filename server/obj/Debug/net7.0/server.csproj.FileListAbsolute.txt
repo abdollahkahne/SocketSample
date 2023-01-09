@@ -1,0 +1,17 @@
+/workspaces/SocketSample/server/bin/Debug/net7.0/server
+/workspaces/SocketSample/server/bin/Debug/net7.0/server.deps.json
+/workspaces/SocketSample/server/bin/Debug/net7.0/server.runtimeconfig.json
+/workspaces/SocketSample/server/bin/Debug/net7.0/server.dll
+/workspaces/SocketSample/server/bin/Debug/net7.0/server.pdb
+/workspaces/SocketSample/server/bin/Debug/net7.0/System.IO.Pipelines.dll
+/workspaces/SocketSample/server/obj/Debug/net7.0/server.csproj.AssemblyReference.cache
+/workspaces/SocketSample/server/obj/Debug/net7.0/server.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/SocketSample/server/obj/Debug/net7.0/server.AssemblyInfoInputs.cache
+/workspaces/SocketSample/server/obj/Debug/net7.0/server.AssemblyInfo.cs
+/workspaces/SocketSample/server/obj/Debug/net7.0/server.csproj.CoreCompileInputs.cache
+/workspaces/SocketSample/server/obj/Debug/net7.0/server.csproj.CopyComplete
+/workspaces/SocketSample/server/obj/Debug/net7.0/server.dll
+/workspaces/SocketSample/server/obj/Debug/net7.0/refint/server.dll
+/workspaces/SocketSample/server/obj/Debug/net7.0/server.pdb
+/workspaces/SocketSample/server/obj/Debug/net7.0/server.genruntimeconfig.cache
+/workspaces/SocketSample/server/obj/Debug/net7.0/ref/server.dll

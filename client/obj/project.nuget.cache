@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5C4BgvNtymnNiIJN9SNcftdRL4gq55AZfgIcid8N1Q6+/PTlpugFMqMxWliQs6mC5iGvhKCh69xo61pflHZBEQ==",
+  "dgSpecHash": "gqPemcdL1NokcnpMRY7dMn/vZ9/Fj44+NAIG0su/xa9OmJzqclamDcKKbRIL8EqSa6rXnobjGM72ywEUYmIDKQ==",
   "success": true,
-  "projectFilePath": "/home/student/Desktop/Learning/GitExample/client/client.csproj",
+  "projectFilePath": "/workspaces/SocketSample/client/client.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

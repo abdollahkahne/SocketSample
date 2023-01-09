@@ -1,16 +1,16 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
+    "net7.0": {
       "System.IO.Pipelines/7.0.0": {
         "type": "package",
         "compile": {
-          "lib/net6.0/System.IO.Pipelines.dll": {
+          "lib/net7.0/System.IO.Pipelines.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/net6.0/System.IO.Pipelines.dll": {
+          "lib/net7.0/System.IO.Pipelines.dll": {
             "related": ".xml"
           }
         },
@@ -50,34 +50,34 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net6.0": [
+    "net7.0": [
       "System.IO.Pipelines >= 7.0.0"
     ]
   },
   "packageFolders": {
-    "/home/student/.nuget/packages/": {}
+    "/home/codespace/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/student/Desktop/Learning/GitExample/server/server.csproj",
+      "projectUniqueName": "/workspaces/SocketSample/server/server.csproj",
       "projectName": "server",
-      "projectPath": "/home/student/Desktop/Learning/GitExample/server/server.csproj",
-      "packagesPath": "/home/student/.nuget/packages/",
-      "outputPath": "/home/student/Desktop/Learning/GitExample/server/obj/",
+      "projectPath": "/workspaces/SocketSample/server/server.csproj",
+      "packagesPath": "/home/codespace/.nuget/packages/",
+      "outputPath": "/workspaces/SocketSample/server/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/student/.nuget/NuGet/NuGet.Config"
+        "/home/codespace/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net6.0"
+        "net7.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "projectReferences": {}
         }
       },
@@ -88,8 +88,8 @@
       }
     },
     "frameworks": {
-      "net6.0": {
-        "targetAlias": "net6.0",
+      "net7.0": {
+        "targetAlias": "net7.0",
         "dependencies": {
           "System.IO.Pipelines": {
             "target": "Package",
@@ -112,7 +112,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.404/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/dotnet/7.0.101/sdk/7.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }
